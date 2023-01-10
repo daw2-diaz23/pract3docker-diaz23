@@ -1,0 +1,2 @@
+docker build -t im03-diaz23:latest .
+docker run --name contenidor03-diaz23 -it ubuntu bash
